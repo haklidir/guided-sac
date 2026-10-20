@@ -1,0 +1,7 @@
+torch
+gymnasium[mujoco]
+mujoco
+numpy
+pandas
+matplotlib
+tqdm
