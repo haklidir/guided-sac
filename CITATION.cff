@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this code, please cite the paper below.
+title: Guided Soft Actor-Critic
+type: software
+authors:
+  - family-names: Haklıdır
+    given-names: Mehmet
+    affiliation: TÜBİTAK BİLGEM
+version: 1.0.0
+date-released: 2026-10-20
+repository-code: https://github.com/haklidir/guided-sac
+license: MIT
+preferred-citation:
+  type: article
+  title: "Guided Soft Actor Critic: A Guided Deep Reinforcement Learning Approach for Partially Observable Markov Decision Processes"
+  authors:
+    - family-names: Haklidir
+      given-names: Mehmet
+    - family-names: Temeltas
+      given-names: Hakan
+  journal: IEEE Access
+  volume: 9
+  start: 159672
+  end: 159683
+  year: 2021
+  doi: 10.1109/ACCESS.2021.3131772
